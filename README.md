@@ -1,0 +1,3 @@
+# GETTING STARTED WITH GIT AND GITHUB
+
+My first repository
